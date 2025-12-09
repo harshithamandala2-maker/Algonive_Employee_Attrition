@@ -34,16 +34,19 @@ Streamlit
 
 Machine Learning (Logistic Regression)
 
-📂 Project Folder Structure
+# 📂 Project Structure – Algonive Employee Attrition
+
 Algonive_Employee_Attrition/
 │
-├── app.py                          # Streamlit application
+├── README.md                       # Project documentation
+├── app.py                          # Streamlit web application
+├── employee_attrition_colab.ipynb  # Google Colab model training file
 ├── hr_data.csv                     # Training dataset
-├── requirements.txt               # Required libraries
-├── result1.png                     ✅ First output screenshot
-├── result2.png                     ✅ Second output screenshot
-├── employee_attrition_colab.ipynb  # Model training notebook
-└── README.md                       # Project documentation
+├── requirements.txt               # Required Python libraries
+├── result1.png                     # App interface & file upload screenshot
+└── result2.png                     # Prediction output screenshot
+
+
 
 
 📊 Dataset Information
